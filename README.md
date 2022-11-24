@@ -1,0 +1,1 @@
+# Nuxt Auth Using Devise Token Auth
